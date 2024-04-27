@@ -1,2 +1,2 @@
 # MCMA
-Multiview Contrastive Masked Autoencoder 
+Multiview Contrastive Masked Autoencoder  
